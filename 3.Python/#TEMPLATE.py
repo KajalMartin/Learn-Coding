@@ -1,4 +1,4 @@
-name, age = "*YOUR NAME*", *YOUR AGE*
-username = "*YOUR USERNAME*"
+name, age = "Kajal", 21
+username = "KajalMartin"
 print ('Hello!')
 print("Name: {}\nAge: {}\nUsername: {}".format(name, age, username))
